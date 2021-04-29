@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-filemanagertest-dev-175339-authRole",
+      "UnauthRoleArn": "arn:aws:iam::416279994227:role/amplify-filemanagertest-dev-175339-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::416279994227:role/amplify-filemanagertest-dev-175339-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-filemanagertest-dev-175339-deployment",
+      "UnauthRoleName": "amplify-filemanagertest-dev-175339-unauthRole",
+      "StackName": "amplify-filemanagertest-dev-175339",
+      "StackId": "arn:aws:cloudformation:us-east-1:416279994227:stack/amplify-filemanagertest-dev-175339/d5e883f0-a913-11eb-af8f-0a56f3b6d8ad",
+      "AmplifyAppId": "d3st7ok0xh4rwb"
+    }
+  }
+}
